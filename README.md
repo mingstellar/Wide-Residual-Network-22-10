@@ -1,5 +1,5 @@
-# Wide-Residual-Networks-22-10
-A pytorch implementation of WideResNets(WRNs) for CIFAR10  
+# Wide-Residual-Network-22-10
+A pytorch implementation of WideResNet(WRN) for CIFAR10  
 # Training
 `python train.py`
 # Acknowledgement
