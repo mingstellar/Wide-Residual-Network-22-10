@@ -3,4 +3,4 @@ A pytorch implementation of WideResNets(WRNs) for CIFAR10
 ## Training
 `python train.py`
 # Acknowledgement
-[Wide Residual Networks (BMVC 2016) by Sergey Zagoruyko and Nikos Komodakis](https://arxiv.org/abs/1605.07146)
+[Wide Residual Networks](https://arxiv.org/abs/1605.07146) (BMVC 2016) by Sergey Zagoruyko and Nikos Komodakis
